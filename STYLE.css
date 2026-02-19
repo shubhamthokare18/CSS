@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+/* #main{
+    width: 100%;
+    height: 100%;
+    margin: 20px;
+    padding: 20px;
+    background-color: antiquewhite;
+    background-image: url(https://images.unsplash.com/photo-1768488801582-3d05e9cd7c14?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw5fHx8ZW58MHx8fHx8);
+    background-size: cover;
+    background-position: center;
+} */
+ /* #car1{
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    background-color: red;
+ }
+  #car2{
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    width: 110px;
+    height: 90px;
+    background-color: blueviolet;
+ }
+  #car3{
+    position: absolute;
+    width: 130px;
+    height: 110px;
+    background-color: green;
+ } */
+  /* #box{
+    position: relative;
+    width: 300px;
+    height: 300px;
+    background-color: red;
+  }
+  #chhota{
+    position: absolute;
+    left: 40%;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+  } */
+   #box{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    background-color: grey;
+   }
+   #box1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(79, 15, 15);
+   }
+    #box2{
+    width: 130px;
+    height: 110px;
+    background-color: rgb(136, 56, 167);
+   }
+    #box3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 166, 0);
+   }
